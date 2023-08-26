@@ -9,6 +9,10 @@
 
 ![](./simp3.png)
 
+## 2 engines move
+
+![](./move2.png)
+
 
 ## led
 
@@ -21,3 +25,13 @@
 ## flow
 
 ![](./simp6.png)
+
+## display
+
+* on dev screen
+![](./display1.png)
+
+
+## others
+
+* [bar](./barCounter.md)
