@@ -21,7 +21,9 @@
 ## basic logic
 * [loops](./2_logic/infiLoop.md)
 * [stop engines](./2_logic/stop.md)
-* []()
+
+## advanced logic
+* [sensor to sensor](./2_logic/%20sensorTrigerSensor.md)
 * []()
 * []()
 * []()
