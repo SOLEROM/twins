@@ -1,3 +1,0 @@
-# sensor trigger sensor
-
-* TBD
